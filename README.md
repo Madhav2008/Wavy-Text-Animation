@@ -1,1 +1,1 @@
-# Wavy Text
+# Wavy Text Animation
