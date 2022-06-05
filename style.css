@@ -22,5 +22,5 @@ body {
     display: inline-block;
     color: #fff;
     font-size: 2em;
-    text-transform: uppercase;
+    text-transform: uppercase;animation: animate 1s ease-in-out;
 }
