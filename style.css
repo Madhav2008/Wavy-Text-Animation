@@ -19,5 +19,5 @@ body {
 .wavy span {
     position: relative;
     display: inline-block;
-    color: #fff;
+    color: #fff;font-size: 2em;
 }
