@@ -32,7 +32,7 @@ body {
     }
 
     20% {
-        transform: translateY(0px);
+        transform: translateY(-20px);
     }
 
     40%,
