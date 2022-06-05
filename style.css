@@ -14,7 +14,7 @@ body {
 
 .wavy {
     position: relative;
-    -webkit-box-reflect: below -12px;
+    -webkit-box-reflect: below -12px linear gradient;
 }
 
 .wavy span {
