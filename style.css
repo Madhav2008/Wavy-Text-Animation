@@ -28,6 +28,6 @@ body {
 
 @keyframes animate {
     0% {
-        transform: translateY();
+        transform: translateY(0px);
     }
 }
