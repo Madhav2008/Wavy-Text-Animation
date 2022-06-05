@@ -12,4 +12,6 @@ body {
     background: #000;
 }
 
-.wavy {position: relative;}
+.wavy {
+    position: relative;
+}
