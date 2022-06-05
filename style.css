@@ -23,7 +23,8 @@ body {
     color: #fff;
     font-size: 2em;
     text-transform: uppercase;
-    animation: animate 1s ease-in-out infinite;animation-delay: calc(0.1s);
+    animation: animate 1s ease-in-out infinite;
+    animation-delay: calc(0.1s);
 }
 
 @keyframes animate {
