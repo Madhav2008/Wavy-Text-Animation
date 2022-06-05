@@ -16,4 +16,4 @@ body {
     position: relative;
 }
 
-.wavy span {}
+.wavy span {position: relative;}
