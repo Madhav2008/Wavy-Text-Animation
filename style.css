@@ -26,4 +26,6 @@ body {
     animation: animate 1s ease-in-out infinite;
 }
 
-@keyframes animate {0%}
+@keyframes animate {
+    0%
+}
