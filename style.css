@@ -23,5 +23,5 @@ body {
     color: #fff;
     font-size: 2em;
     text-transform: uppercase;
-    animation: animate 1s ease-in-out;
+    animation: animate 1s ease-in-out infinite;
 }
