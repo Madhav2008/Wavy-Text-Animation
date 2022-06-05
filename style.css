@@ -35,7 +35,7 @@ body {
         transform: translateY(0px);
     }
 
-    0% {
+    40% {
         transform: translateY(0px);
     }
 }
