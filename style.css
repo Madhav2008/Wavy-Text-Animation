@@ -13,7 +13,8 @@ body {
 }
 
 .wavy {
-    position: relative;-webkit-box-reflect: below;
+    position: relative;
+    -webkit-box-reflect: below;
 }
 
 .wavy span {
