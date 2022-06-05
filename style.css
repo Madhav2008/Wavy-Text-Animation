@@ -4,4 +4,6 @@
     font-family: consolas;
 }
 
-body {display: flex;}
+body {
+    display: flex;
+}
